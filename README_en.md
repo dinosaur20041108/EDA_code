@@ -23,6 +23,6 @@ Vivado 2019.2
 
 #### Contributions
 
-1. Andrioddinsaur 🦖 2.
+1. Andrioddinsaur 🦖
 
 2. you are welcome to share the code (submit to issue or pull request if there is a problem)
